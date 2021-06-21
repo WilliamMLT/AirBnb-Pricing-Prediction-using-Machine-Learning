@@ -10,6 +10,8 @@ Lasso Regression was used as the final model to predict the listing prices of an
 
 The outcome of this project provided recommended prices of their properties to hosts along with other recommendations. Hosts can use the findings to enhance the attractiveness of their listings.
 
+If the notebook cannot be viewed, you may view it here: https://nbviewer.jupyter.org/github/WilliamMLT/AirBnb-Pricing-Prediction-using-Machine-Learning/blob/main/airbnb_notebook.ipynb
+
 ### Note:
 There is an additional dataset that cannot be uploaded due to size restrictions, it is called the 'listings.csv', which can be obtained from Inside Airbnb, New York City 
 http://insideairbnb.com/get-the-data.html
